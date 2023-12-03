@@ -1,0 +1,24 @@
+#page {
+    background-color: lightskyblue;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.homepage-title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(217, 140, 7);
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
